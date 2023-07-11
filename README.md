@@ -4,4 +4,8 @@ This is a pre alpha mod of a Voron Afterburner, to except a Phatus Apus extruder
 
 decided on a candidate for the toolhead board EEB36
 
-will be doing test fits hopefully this month
+![Scramburner test print top view](Images/top_down.jpg) 
+![Scramburner test print toolboard right side](Images/toolboard_right_side.jpg)
+![Scramburner test print front view](Images/front_view.jpg)
+
+please take note these are not the finish looking parts they will change
