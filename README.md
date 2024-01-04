@@ -6,6 +6,6 @@ decided on a candidate for the toolhead board hartk Voron Afterburner Toolhead v
 
 ![Scramburner test print top view](Images/top_down.jpg) 
 ![Scramburner test print toolboard right side](Images/toolboard_right_side.jpg)
-![Scramburner test print front view](Images/front_view.jpg)
+![Scramburner test print front view](Images/20240104_163637.jpg)
 
 please take note these are not the finish looking parts they will change
