@@ -1,6 +1,6 @@
 # Scramburner
 
-This is a mod of a Voron Afterburner, to except a Phatus Apus extruder thats in alpha development. A proof of concept was shown to a handful of people at MRRF 2023 and it was also shown at MRRF 2024 on a not working Enderwire
+This is a mod for a Voron Afterburner, to except a Phatus Apus extruder thats in alpha development. A proof of concept was shown to a handful of people at MRRF 2023 and it was also shown at MRRF 2024 on a not working Enderwire
 
 Toolboard is now a nitehawk-sb by LDO 
 reprepouse the CT heater for a Endstop
